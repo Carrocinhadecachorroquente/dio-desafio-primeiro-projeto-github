@@ -1,0 +1,11 @@
+# Módulo II: Html e CSS
+
+Curso 1: Primeiros passos para desenvolvimento web
+1. O que é internet?
+2. Como funciona a internet?
+3. TCP/IP, portas, roteadores, switches e modens
+4. Celular, internet e outros dispositivos
+5. Browser, sites, aplicativos e webserver
+6. O que são Stacks?
+7. LPs e termos
+8. Construindo a primeira aplicação

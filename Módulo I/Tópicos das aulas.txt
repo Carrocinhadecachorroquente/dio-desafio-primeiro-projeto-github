@@ -1,0 +1,22 @@
+ # Módulo I: Conteúdo de Abertura
+
+Curso 1: Introdução à Programação e ao Pensamento Computacional
+
+1. Pensamento Computacional 
+2. Introdução à lógica de programação
+3. Fundamentos de algorítmos
+4. Linguagens de programação
+5. Primeiro contato com a programação
+
+Curso 2: Introdução ao Git e ao GitHub
+
+1. Introdução ao Git
+2. Navegação via Command Line interface e instalação
+3. Entendendo como o Git funciona por baixo dos panos
+4. Primeiros comandos com Git
+5. Ciclo de vida dos arquivos no Git
+6. Introdução ao GitHub
+7. Resolvendo conflitos 
+
+
+ 

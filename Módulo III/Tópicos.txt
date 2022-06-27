@@ -1,0 +1,59 @@
+# Módulo III: Javascript
+
+Curso 1: IDE Instalação e Configuração (Visual Studio Code)
+1. Instalando o VSCode
+2. Recursos Básicos
+3. Extensões e Temas
+4. Terminal e Git
+
+Curso 2: Introdução ao Javascript
+1. O que é Javascript?
+2. Recursos Básicos da Linguagem
+3. Console
+4. Javascrpt em uma página da web
+5. Colocando em prática
+6. Mercado de Trabalho
+
+Curso 3: Sintaxe Básica em Javascript
+1. Apresentação
+2. O que danado é javascript?
+3. Entendendo variáveis e seus valores
+4. Vetores e objetos
+5. Estruturas condicionais
+6. Funções e suas particularidades
+7. Aprofundando em funções
+
+Curso 4: Sintaxe e Operadores
+1. Operadores
+2. Atividade prática
+
+Curso 5: Variáveis e Tipos
+1. Atribuindo Valores
+2. Tipos
+3. Atividade prática
+
+Curso 6: Funções
+1. Tipos de função
+2. Parâmetros
+3. Loops
+4. This
+5. Arrow functions
+
+Curso 7: Debugging e Error Handling
+1. Tipos de erros
+2. Tratando erros
+3. Criando erros
+
+Curso 8: Javascript assíncrono
+1. Assincronicidade
+2. Consumindo APIs
+
+Curso 9: Orientação a objetos
+1. Compreendendo orientação a objetos
+2. Orientação a Objetos em Javascript
+
+Curso 10: Manipulando a D.O.M com Javascript
+1. Entendendo a D.O.M
+2. Selecionando eletementos
+3. Trabalhando com estilos
+4. Eventos
